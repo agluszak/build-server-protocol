@@ -1,7 +1,7 @@
 {
   "docs": {
     "Overview": ["specification", "implementations", "server-discovery", "faq"],
-    "Extensions": [
+    "Extensions":  [
       "extensions/jvm",
       "extensions/scala",
       "extensions/sbt",

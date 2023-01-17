@@ -1,7 +1,8 @@
 p a {
   text-decoration: underline;
 }
-:link {
+:link  {
+
   color: #0000ee;
 }
 :visited {
