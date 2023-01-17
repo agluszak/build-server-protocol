@@ -6,6 +6,7 @@
       "extensions/scala",
       "extensions/sbt",
       "extensions/java",
+
       "extensions/maven"
     ],
     "Bindings": ["bindings/java"]
