@@ -2,8 +2,8 @@ module.exports = {
   title: "Build Server Protocol",
   tagline:
     "Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.",
-  url: "https://build-server-protocol.github.io",
-  baseUrl: "/",
+  url: "https://agluszak.github.io",
+  baseUrl: "/build-server-protocol/",
   organizationName: "build-server-protocol",
   projectName: "build-server-protocol.github.io",
   deploymentBranch: "master",
