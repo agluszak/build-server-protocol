@@ -31,7 +31,7 @@ jobs:
         distribution: 'temurin'
         cache: 'sbt'
     - name: Build docs
-      run: sbt doc
+      run: sbt "codegen; xtend; doc"
     - name: Build website
       run: cd website && yarn build
     - name: Setup Pages
